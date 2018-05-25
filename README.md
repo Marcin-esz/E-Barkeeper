@@ -1,4 +1,4 @@
-# MasterSoda
+# MsSoda
 Projekt urządzenia do gazowania wody, część większego projektu maszyny do mieszania drinków. 
 
 Pierwszym krok projektu to moduł filtracji wraz z układem kontroli jakości wody i przydatności filtrów. 

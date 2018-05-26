@@ -1,4 +1,4 @@
-# E-Barkeeper
+# **E-Barkeeper**
 
 ## MsClarifier
 
@@ -6,5 +6,5 @@
 
 ## MsSoda
 
-### MixedOrShocked
+### **MixedOrShocked**
 

@@ -1,12 +1,4 @@
-# **E-Barkeeper**
-
-## MsClarifier
-
-## MsChilly
-
-## MsSoda
-
-### **MixedOrShocked**
+# E-Barkeeper
 
 ## MsClarifier
 
